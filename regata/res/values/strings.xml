@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Activity -->
+    <string name="app_name">regata</string>
+    <!-- A0 -->
+    <string name="titre">Bienvenue!</string>
+    <string name="btn_1">GPS</string>
+    <string name="btn_2">Info</string>
+    <string name="btn_3">Appel</string>
+    <string name="btn_4">GPS 2</string>
+    <string name="btn_5">Accés site</string>
+    
+    <!--A1-->
+    <string name="txt_A1_long">Longitude:</string>
+    <string name="txt_A1_lat">Latitude:</string>
+    <string name="txt_A1_titre">GPS</string>
+    <!--A2-->
+    <string name="txt_A2_titre">Info</string>
+    <!-- A3 -->
+    <string name="txt_A3_titre">Appel</string>
+    <string name="btn_A3_cc1">Comité Course</string>
+    <string name="btn_A3_cc2">Comité Course 2</string>
+    <!-- A4 -->
+	<string name="lol"></string>
+	<!-- A5 -->
+	<string name="btn_A5_c">Comité Course</string>
+</resources>
